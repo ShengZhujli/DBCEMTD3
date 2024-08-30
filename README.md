@@ -1,4 +1,5 @@
 # Double Buffers CEM-TD3: More Efficient Evolution and Richer Exploration (Accepted by AAAI 2024)
+Paper: https://ojs.aaai.org/index.php/AAAI/article/view/29665
 Pytorch implementation of DBCEM-TD3 based CEM-TD3: https://arxiv.org/pdf/1810.01222.pdf
 
 To reproduce the results of the paper:
